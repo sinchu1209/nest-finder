@@ -7,15 +7,15 @@ NestFinder is a real estate platform designed to facilitate property searches an
 
 ## Technologies
 
-- **Frontend:** React
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- Frontend: React
+- Backend: Node.js, Express.js
+- Database: MongoDB
 
 ## Tools
 
-- **Code Editor:** Visual Studio Code
-- **Database Management:** MongoDB Compass
-- **API Testing:** Postman
+-Code Editor: Visual Studio Code
+- Database Management:MongoDB Compass
+-API Testing: Postman
 
 ## Setup Instructions
 
